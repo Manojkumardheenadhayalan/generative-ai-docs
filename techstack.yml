@@ -1,0 +1,1129 @@
+repo_name: Manojkumardheenadhayalan/generative-ai-docs
+report_id: f6a39b562348d3ace8ed6599c28f76dd
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-25T11:19:00+00:00'
+requested_by: markmcd
+provider: github
+branch: main
+detected_tools_count: 81
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/travel-planner/package.json
+  detection_source: demos/palm/web/travel-planner/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-05-11 18:53:36.000000000 Z
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/python/docs-agent/pyproject.toml
+  detection_source: demos/palm/python/docs-agent/pyproject.toml
+  last_updated_by: kyolee415
+  last_updated_on: 2023-09-18 15:30:22.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  version: 5.1.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/node/pipet-code-agent/package-lock.json
+  detection_source: demos/palm/node/pipet-code-agent/package.json
+  last_updated_by: Mark McDonald
+  last_updated_on: 2023-10-13 17:03:23.000000000 Z
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/node/pipet-code-agent/package.json
+  detection_source: demos/palm/node/pipet-code-agent/package.json
+  last_updated_by: Mark McDonald
+  last_updated_on: 2023-10-13 17:03:23.000000000 Z
+- name: Flask
+  description: A microframework for Python based on Werkzeug, Jinja 2 and good intentions
+  website_url: http://flask.pocoo.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1001/default_6d109315b60108628b7cd3e159b84645c31ef0e2.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/python/docs-agent/setup.py
+  detection_source: demos/palm/python/docs-agent/setup.py
+  last_updated_by: kyolee415
+  last_updated_on: 2023-09-18 15:30:22.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/node/pipet-code-agent/package.json
+  detection_source: demos/palm/node/pipet-code-agent/package.json
+  last_updated_by: Mark McDonald
+  last_updated_on: 2023-10-13 17:03:23.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/list-it/package-lock.json
+  detection_source: demos/palm/web/list-it/package.json
+  last_updated_by: Mathew Ray
+  last_updated_on: 2023-05-09 21:35:28.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 6.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/mood-food/yarn.lock
+  detection_source: demos/palm/web/mood-food/package.json
+  last_updated_by: Yiling Liu
+  last_updated_on: 2023-05-03 03:34:04.000000000 Z
+- name: Redux
+  description: Predictable state container for JavaScript apps
+  website_url: https://redux.js.org/
+  version: 4.2.1
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/4074/13142323.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/mood-food/yarn.lock
+  detection_source: demos/palm/web/mood-food/package.json
+  last_updated_by: Yiling Liu
+  last_updated_on: 2023-05-03 03:34:04.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/list-it/package.json
+  detection_source: demos/palm/web/list-it/package.json
+  last_updated_by: Mathew Ray
+  last_updated_on: 2023-05-09 21:35:28.000000000 Z
+- name: Zustand
+  description: Bear necessities for state management in React
+  website_url: https://github.com/react-spring/zustand
+  version: 4.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Monitoring for Analytics
+  image_url: https://img.stackshare.io/service/11559/zustand.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/list-it/package-lock.json
+  detection_source: demos/palm/web/list-it/package.json
+  last_updated_by: Mathew Ray
+  last_updated_on: 2023-05-09 21:35:28.000000000 Z
+- name: Chroma
+  description: The AI-native open-source embedding database
+  website_url: https://www.trychroma.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/101828/default_de3ae68ae3ebc7fda7f97083ea89a050444976ff.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/python/docs-agent/pyproject.toml
+  detection_source: demos/palm/python/docs-agent/pyproject.toml
+  last_updated_by: kyolee415
+  last_updated_on: 2023-10-04 02:52:10.000000000 Z
+- name: Firebase
+  description: The Realtime App Platform
+  website_url: https://firebase.google.com/
+  open_source: false
+  hosted_saas: true
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/116/cZLxNFZS.jpg
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/list-it/package.json
+  detection_source: demos/palm/web/list-it/package.json
+  last_updated_by: Mathew Ray
+  last_updated_on: 2023-05-09 21:35:28.000000000 Z
+- name: Redux Persist
+  description: A library to persist and rehydrate a redux store
+  website_url: https://github.com/rt2zz/redux-persist
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/6740/no-img-open-source.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/mood-food/yarn.lock
+  detection_source: demos/palm/web/mood-food/package.json
+  last_updated_by: Yiling Liu
+  last_updated_on: 2023-05-03 03:34:04.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.20.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/list-it/package-lock.json
+  detection_source: demos/palm/web/mood-food/package.json
+  last_updated_by: Yiling Liu
+  last_updated_on: 2023-05-03 03:34:04.000000000 Z
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/node/pipet-code-agent/package.json
+  detection_source: demos/palm/node/pipet-code-agent/package.json
+  last_updated_by: Mark McDonald
+  last_updated_on: 2023-10-13 17:03:23.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/node/pipet-code-agent/package.json
+  detection_source: demos/palm/node/pipet-code-agent/package.json
+  last_updated_by: Mark McDonald
+  last_updated_on: 2023-10-13 17:03:23.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/.github/workflows/labeler.yml
+  detection_source: ".github/workflows/labeler.yml"
+  last_updated_by: keertk
+  last_updated_on: 2023-08-24 23:39:11.000000000 Z
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 27.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/mood-food/yarn.lock
+  detection_source: demos/palm/web/talking-character/package.json
+  last_updated_by: jayji
+  last_updated_on: 2023-05-09 12:12:09.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 10.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/node/pipet-code-agent/package-lock.json
+  detection_source: demos/palm/node/pipet-code-agent/package.json
+  last_updated_by: Mark McDonald
+  last_updated_on: 2023-10-13 17:03:23.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/node/pipet-code-agent/package.json
+  detection_source: demos/palm/node/pipet-code-agent/package.json
+  last_updated_by: Mark McDonald
+  last_updated_on: 2023-10-13 17:03:23.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 2.8.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/list-it/package-lock.json
+  detection_source: demos/palm/web/list-it/package.json
+  last_updated_by: Mathew Ray
+  last_updated_on: 2023-05-09 21:35:28.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/python/docs-agent/pyproject.toml
+  detection_source: demos/palm/python/docs-agent/pyproject.toml
+  last_updated_by: kyolee415
+  last_updated_on: 2023-09-18 15:30:22.000000000 Z
+- name: Vite
+  description: Native-ESM powered web dev build tool
+  website_url: https://vitejs.dev/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/list-it/package.json
+  detection_source: demos/palm/web/list-it/package.json
+  last_updated_by: Mathew Ray
+  last_updated_on: 2023-05-09 21:35:28.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/list-it/yarn.lock
+  detection_source: demos/palm/web/list-it/yarn.lock
+  last_updated_by: Mathew Ray
+  last_updated_on: 2023-05-09 21:35:28.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/travel-planner/package.json
+  detection_source: demos/palm/web/travel-planner/package.json
+  last_updated_by: Yiling Liu
+  last_updated_on: 2023-05-03 03:34:04.000000000 Z
+- name: Buffer
+  description: The easiest way to schedule tweets, Facebook posts and more
+  website_url: https://bufferapp.com/
+  open_source: false
+  hosted_saas: true
+  category: Support, Sales, and Marketing
+  sub_category: Social Media Tools
+  image_url: https://img.stackshare.io/service/825/hnc3q-7x.jpg
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/talking-character/package.json
+  detection_source: demos/palm/web/talking-character/package.json
+  last_updated_by: jayji
+  last_updated_on: 2023-05-09 12:12:09.000000000 Z
+- name: Jupyter
+  description: Multi-language interactive computing environments.
+  website_url: http://jupyter.org
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Data Science Notebooks
+  image_url: https://img.stackshare.io/service/4190/fGBUdNf__400x400.jpg
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs
+  detection_source: Repo Metadata
+- name: Sentence Transformers
+  description: Multilingual sentence, paragraph, and image embeddings
+  website_url: https://www.sbert.net/
+  version: 2.2.2
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: NLP / Sentiment Analysis
+  image_url: https://img.stackshare.io/service/109224/default_1167b8b1fc15f3526701cde5a789734ae865925d.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/python/docs-agent/poetry.lock
+  detection_source: demos/palm/python/docs-agent/pyproject.toml
+  last_updated_by: kyolee415
+  last_updated_on: 2023-09-18 15:30:22.000000000 Z
+- name: three.js
+  description: A JavaScript 3D library
+  website_url: https://threejs.org/
+  version: 0.150.1
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Game Development
+  image_url: https://img.stackshare.io/service/5883/preview.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/talking-character/package-lock.json
+  detection_source: demos/palm/web/talking-character/package.json
+  last_updated_by: jayji
+  last_updated_on: 2023-05-09 12:12:09.000000000 Z
+- name: vite
+  description: Native-ESM powered web dev build tool
+  package_url: https://www.npmjs.com/vite
+  version: 4.1.5
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/list-it/package-lock.json
+  detection_source: demos/palm/web/list-it/package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-07-26 20:40:49.000000000 Z
+  vulnerabilities:
+  - name: Vite dev server option `server.fs.deny` can be bypassed when hosted on case-insensitive
+      filesystem
+    cve_id: CVE-2024-23331
+    cve_url: https://github.com/advisories/GHSA-c24v-8rfc-w8vw
+    detected_date: Jan 20
+    severity: high
+    first_patched: 4.5.2
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.20.12
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/list-it/package-lock.json
+  detection_source: demos/palm/web/mood-food/package.json
+  last_updated_by: Yiling Liu
+  last_updated_on: 2023-05-03 03:34:04.000000000 Z
+- name: "@emotion/styled"
+  description: Styled API for emotion
+  package_url: https://www.npmjs.com/@emotion/styled
+  version: 11.10.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16702/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/mood-food/yarn.lock
+  detection_source: demos/palm/web/mood-food/package.json
+  last_updated_by: Yiling Liu
+  last_updated_on: 2023-05-03 03:34:04.000000000 Z
+- name: "@testing-library/jest-dom"
+  description: Custom jest matchers to test the state of the DOM
+  package_url: https://www.npmjs.com/@testing-library/jest-dom
+  version: 5.17.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/talking-character/package-lock.json
+  detection_source: demos/palm/web/talking-character/package.json
+  last_updated_by: jayji
+  last_updated_on: 2023-05-09 12:12:09.000000000 Z
+- name: "@testing-library/react"
+  description: Simple and complete React DOM testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react
+  version: 13.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/talking-character/package-lock.json
+  detection_source: demos/palm/web/talking-character/package.json
+  last_updated_by: jayji
+  last_updated_on: 2023-05-09 12:12:09.000000000 Z
+- name: "@types/glob"
+  description: TypeScript definitions for Glob
+  package_url: https://www.npmjs.com/@types/glob
+  version: 8.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16391/default_fc6e1fc17e404d936593b5b901d67abb3386daa3.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/node/pipet-code-agent/package-lock.json
+  detection_source: demos/palm/node/pipet-code-agent/package.json
+  last_updated_by: Mark McDonald
+  last_updated_on: 2023-10-13 17:03:23.000000000 Z
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 27.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/talking-character/package-lock.json
+  detection_source: demos/palm/web/talking-character/package.json
+  last_updated_by: jayji
+  last_updated_on: 2023-05-09 12:12:09.000000000 Z
+- name: "@types/mocha"
+  description: TypeScript definitions for mocha
+  package_url: https://www.npmjs.com/@types/mocha
+  version: 10.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15893/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/node/pipet-code-agent/package-lock.json
+  detection_source: demos/palm/node/pipet-code-agent/package.json
+  last_updated_by: Mark McDonald
+  last_updated_on: 2023-10-13 17:03:23.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 20.2.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/node/pipet-code-agent/package-lock.json
+  detection_source: demos/palm/node/pipet-code-agent/package.json
+  last_updated_by: Mark McDonald
+  last_updated_on: 2023-10-13 17:03:23.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 18.0.28
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/list-it/package-lock.json
+  detection_source: demos/palm/web/list-it/package.json
+  last_updated_by: Mathew Ray
+  last_updated_on: 2023-05-09 21:35:28.000000000 Z
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 18.0.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/list-it/package-lock.json
+  detection_source: demos/palm/web/list-it/package.json
+  last_updated_by: Mathew Ray
+  last_updated_on: 2023-05-09 21:35:28.000000000 Z
+- name: "@types/uuid"
+  description: TypeScript definitions for uuid
+  package_url: https://www.npmjs.com/@types/uuid
+  version: 9.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16257/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/textfx/package-lock.json
+  detection_source: demos/palm/web/textfx/package.json
+  last_updated_by: Aaron Wade
+  last_updated_on: 2023-08-02 13:46:29.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 5.59.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/node/pipet-code-agent/package-lock.json
+  detection_source: demos/palm/node/pipet-code-agent/package.json
+  last_updated_by: Mark McDonald
+  last_updated_on: 2023-10-13 17:03:23.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 5.59.9
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/node/pipet-code-agent/package-lock.json
+  detection_source: demos/palm/node/pipet-code-agent/package.json
+  last_updated_by: Mark McDonald
+  last_updated_on: 2023-10-13 17:03:23.000000000 Z
+- name: classnames
+  description: A simple utility for conditionally joining classNames together
+  package_url: https://www.npmjs.com/classnames
+  version: 2.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15942/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/list-it/package-lock.json
+  detection_source: demos/palm/web/list-it/package.json
+  last_updated_by: Mathew Ray
+  last_updated_on: 2023-05-09 21:35:28.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 8.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/list-it/package-lock.json
+  detection_source: demos/palm/web/list-it/package.json
+  last_updated_by: Mathew Ray
+  last_updated_on: 2023-05-09 21:35:28.000000000 Z
+- name: eslint-plugin-jsx-a11y
+  description: Static AST checker for accessibility rules on JSX elements
+  package_url: https://www.npmjs.com/eslint-plugin-jsx-a11y
+  version: 6.7.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15845/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/list-it/package-lock.json
+  detection_source: demos/palm/web/list-it/package.json
+  last_updated_by: Mathew Ray
+  last_updated_on: 2023-05-09 21:35:28.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 4.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/list-it/package-lock.json
+  detection_source: demos/palm/web/list-it/package.json
+  last_updated_by: Mathew Ray
+  last_updated_on: 2023-05-09 21:35:28.000000000 Z
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 7.32.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/list-it/package-lock.json
+  detection_source: demos/palm/web/list-it/package.json
+  last_updated_by: Mathew Ray
+  last_updated_on: 2023-05-09 21:35:28.000000000 Z
+- name: eslint-plugin-react-hooks
+  description: ESLint rules for React Hooks
+  package_url: https://www.npmjs.com/eslint-plugin-react-hooks
+  version: 4.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/list-it/package-lock.json
+  detection_source: demos/palm/web/list-it/package.json
+  last_updated_by: Mathew Ray
+  last_updated_on: 2023-05-09 21:35:28.000000000 Z
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 8.1.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/node/pipet-code-agent/package-lock.json
+  detection_source: demos/palm/node/pipet-code-agent/package.json
+  last_updated_by: Mark McDonald
+  last_updated_on: 2023-10-13 17:03:23.000000000 Z
+- name: google-auth-library
+  description: Google APIs Authentication Client Library for Node.js
+  package_url: https://www.npmjs.com/google-auth-library
+  version: 8.8.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17925/default_72dbba22ca96f25f78f55f8ea5393222efca5494.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/node/pipet-code-agent/package-lock.json
+  detection_source: demos/palm/node/pipet-code-agent/package.json
+  last_updated_by: Mark McDonald
+  last_updated_on: 2023-10-13 17:03:23.000000000 Z
+- name: googleapis
+  description: Google APIs Client Library for Node.js
+  package_url: https://www.npmjs.com/googleapis
+  version: 114.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16842/default_d7dbced92f420888f118516ac7144afed4acf9ca.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/talking-character/package-lock.json
+  detection_source: demos/palm/web/talking-character/package.json
+  last_updated_by: jayji
+  last_updated_on: 2023-05-09 12:12:09.000000000 Z
+- name: js-cookie
+  description: A simple, lightweight JavaScript API for handling cookies
+  package_url: https://www.npmjs.com/js-cookie
+  version: 3.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16441/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/textfx/package-lock.json
+  detection_source: demos/palm/web/textfx/package.json
+  last_updated_by: Aaron Wade
+  last_updated_on: 2023-08-02 13:46:29.000000000 Z
+- name: markdown-it
+  description: Markdown-it - modern pluggable markdown parser
+  package_url: https://www.npmjs.com/markdown-it
+  version: 12.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16277/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/node/pipet-code-agent/package-lock.json
+  detection_source: demos/palm/web/travel-planner/package.json
+  last_updated_by: Yiling Liu
+  last_updated_on: 2023-05-03 03:34:04.000000000 Z
+- name: prop-types
+  description: Runtime type checking for React props and similar objects
+  package_url: https://www.npmjs.com/prop-types
+  version: 15.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15843/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/list-it/package-lock.json
+  detection_source: demos/palm/web/list-it/package.json
+  last_updated_by: Mathew Ray
+  last_updated_on: 2023-05-09 21:35:28.000000000 Z
+- name: react-app-rewired
+  description: Tweak the create-react-app webpack config
+  package_url: https://www.npmjs.com/react-app-rewired
+  version: 2.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18317/default_f1e168ebe0f124084b9a0acbe78bc5cdba7b4575.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/mood-food/yarn.lock
+  detection_source: demos/palm/web/mood-food/package.json
+  last_updated_by: Yiling Liu
+  last_updated_on: 2023-05-03 03:34:04.000000000 Z
+- name: react-dnd
+  description: Drag and Drop for React
+  package_url: https://www.npmjs.com/react-dnd
+  version: 16.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16710/default_9b37c4b9479b5cf61478ac117da829ccdd0ed0a0.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/textfx/package-lock.json
+  detection_source: demos/palm/web/textfx/package.json
+  last_updated_by: Aaron Wade
+  last_updated_on: 2023-08-02 13:46:29.000000000 Z
+- name: react-dnd-html5-backend
+  description: HTML5 backend for React DnD
+  package_url: https://www.npmjs.com/react-dnd-html5-backend
+  version: 16.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16799/default_dc62f5e9b636403c2d19676924f5b6b881abcac8.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/textfx/package-lock.json
+  detection_source: demos/palm/web/textfx/package.json
+  last_updated_by: Aaron Wade
+  last_updated_on: 2023-08-02 13:46:29.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/list-it/package-lock.json
+  detection_source: demos/palm/web/list-it/package.json
+  last_updated_by: Mathew Ray
+  last_updated_on: 2023-05-09 21:35:28.000000000 Z
+- name: react-redux
+  description: Official React bindings for Redux
+  package_url: https://www.npmjs.com/react-redux
+  version: 8.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15984/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/mood-food/yarn.lock
+  detection_source: demos/palm/web/mood-food/package.json
+  last_updated_by: Yiling Liu
+  last_updated_on: 2023-05-03 03:34:04.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 6.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/mood-food/yarn.lock
+  detection_source: demos/palm/web/mood-food/package.json
+  last_updated_by: Yiling Liu
+  last_updated_on: 2023-05-03 03:34:04.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/mood-food/yarn.lock
+  detection_source: demos/palm/web/mood-food/package.json
+  last_updated_by: Yiling Liu
+  last_updated_on: 2023-05-03 03:34:04.000000000 Z
+- name: swiper
+  description: Most modern mobile touch slider and framework with hardware accelerated
+    transitions
+  package_url: https://www.npmjs.com/swiper
+  version: 9.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17656/default_b06ec1ccf403dac1459596b8571a4fb6a46577e1.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/mood-food/yarn.lock
+  detection_source: demos/palm/web/mood-food/package.json
+  last_updated_by: Yiling Liu
+  last_updated_on: 2023-05-03 03:34:04.000000000 Z
+- name: three
+  description: JavaScript 3D library
+  package_url: https://www.npmjs.com/three
+  version: 0.150.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16653/default_cc0f40a737548852d2ee666c132c258c9a2c0cad.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/talking-character/package-lock.json
+  detection_source: demos/palm/web/talking-character/package.json
+  last_updated_by: jayji
+  last_updated_on: 2023-05-09 12:12:09.000000000 Z
+- name: webfontloader
+  description: Web Font Loader gives you added control when using linked fonts via
+    @font-face
+  package_url: https://www.npmjs.com/webfontloader
+  version: 1.6.28
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18680/default_796854034d0fb722b81b1d885cb3ab88a613d5fb.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/web/mood-food/yarn.lock
+  detection_source: demos/palm/web/mood-food/package.json
+  last_updated_by: Yiling Liu
+  last_updated_on: 2023-05-03 03:34:04.000000000 Z
+- name: black
+  description: The uncompromising code formatter
+  package_url: https://pypi.org/project/black
+  version: 23.12.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20099/default_029b9bbfb6be2cd34bebeda5b8e1e80a1d22441c.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/python/docs-agent/poetry.lock
+  detection_source: demos/palm/python/docs-agent/pyproject.toml
+  last_updated_by: kyolee415
+  last_updated_on: 2023-09-18 15:30:22.000000000 Z
+  vulnerabilities:
+  - name: Black vulnerable to Regular Expression Denial of Service (ReDoS)
+    cve_id: CVE-2024-21503
+    cve_url: https://github.com/advisories/GHSA-fj7x-q9j7-g6q6
+    detected_date: Mar 21
+    severity: moderate
+    first_patched: 24.3.0
+- name: Markdown
+  description: Python implementation of Markdown
+  package_url: https://pypi.org/project/Markdown
+  version: 3.4.3
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19908/default_67f813d4aac73d024261bcfded6ef2b918e384a0.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/python/docs-agent/pyproject.toml
+  detection_source: demos/palm/python/docs-agent/pyproject.toml
+  last_updated_by: kyolee415
+  last_updated_on: 2023-09-18 15:30:22.000000000 Z
+- name: absl-py
+  description: Abseil Python Common Libraries
+  package_url: https://pypi.org/project/absl-py
+  version: 1.4.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20195/default_14fd0a08e7a20af54a529b4d1523b81a6f84ed75.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/python/docs-agent/poetry.lock
+  detection_source: demos/palm/python/docs-agent/pyproject.toml
+  last_updated_by: kyolee415
+  last_updated_on: 2023-09-18 15:30:22.000000000 Z
+- name: beautifulsoup4
+  description: Screen-scraping library
+  package_url: https://pypi.org/project/beautifulsoup4
+  version: 4.12.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19838/default_85689b353a3a9409328e253ea28d859d29151e0c.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/python/docs-agent/poetry.lock
+  detection_source: demos/palm/python/docs-agent/pyproject.toml
+  last_updated_by: kyolee415
+  last_updated_on: 2023-09-18 15:30:22.000000000 Z
+- name: chromadb
+  description: Chroma
+  package_url: https://pypi.org/project/chromadb
+  version: 0.4.13
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/python/docs-agent/poetry.lock
+  detection_source: demos/palm/python/docs-agent/pyproject.toml
+  last_updated_by: kyolee415
+  last_updated_on: 2023-10-04 02:52:10.000000000 Z
+- name: flatdict
+  description: Python module for interacting with nested dicts as a single level dict
+    with delimited keys
+  package_url: https://pypi.org/project/flatdict
+  version: 4.0.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/python/docs-agent/poetry.lock
+  detection_source: demos/palm/python/docs-agent/pyproject.toml
+  last_updated_by: kyolee415
+  last_updated_on: 2023-09-18 15:30:22.000000000 Z
+- name: grpcio
+  description: HTTP/2-based RPC framework
+  package_url: https://pypi.org/project/grpcio
+  version: 1.60.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19903/default_1d0eb6da6bdd342bb15f73d8f1721516ebacd1dc.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/python/docs-agent/poetry.lock
+  detection_source: demos/palm/python/docs-agent/pyproject.toml
+  last_updated_by: kyolee415
+  last_updated_on: 2023-09-18 15:30:22.000000000 Z
+- name: grpcio-tools
+  description: Protobuf code generator for gRPC
+  package_url: https://pypi.org/project/grpcio-tools
+  version: 1.60.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20003/default_87268cab0d3a3b3acf3aa0576d4b114b8e4c2521.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/python/docs-agent/poetry.lock
+  detection_source: demos/palm/python/docs-agent/pyproject.toml
+  last_updated_by: kyolee415
+  last_updated_on: 2023-09-18 15:30:22.000000000 Z
+- name: ipython
+  description: 'IPython: Productive Interactive Computing'
+  package_url: https://pypi.org/project/ipython
+  version: 8.18.1
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19892/default_f716e4bc541a9eb6e3f5b7a20d7c35355075b0b4.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/python/docs-agent/poetry.lock
+  detection_source: demos/palm/python/docs-agent/pyproject.toml
+  last_updated_by: kyolee415
+  last_updated_on: 2023-09-18 15:30:22.000000000 Z
+- name: protobuf
+  description: Protocol Buffers
+  package_url: https://pypi.org/project/protobuf
+  version: 4.25.1
+  license: BSD-1-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19862/default_f24e00e4cb7620e436f9d06e0305070e1335922a.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/python/docs-agent/poetry.lock
+  detection_source: demos/palm/python/docs-agent/pyproject.toml
+  last_updated_by: kyolee415
+  last_updated_on: 2023-09-18 15:30:22.000000000 Z
+- name: pylint
+  description: Python code static checker
+  package_url: https://pypi.org/project/pylint
+  version: 2.17.7
+  license: GPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19980/default_a82f3cd9981909e38152c6f66eefe94bed2aa5ca.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/python/docs-agent/poetry.lock
+  detection_source: demos/palm/python/docs-agent/pyproject.toml
+  last_updated_by: kyolee415
+  last_updated_on: 2023-09-18 15:30:22.000000000 Z
+- name: python-frontmatter
+  description: Parse and manage posts with YAML
+  package_url: https://pypi.org/project/python-frontmatter
+  version: 1.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/python/docs-agent/poetry.lock
+  detection_source: demos/palm/python/docs-agent/pyproject.toml
+  last_updated_by: kyolee415
+  last_updated_on: 2023-09-18 15:30:22.000000000 Z
+- name: pytz
+  description: World timezone definitions, modern and historical
+  package_url: https://pypi.org/project/pytz
+  version: '2020.1'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19841/default_bb711fa267b2329ed689711a5adb7d9e74610b20.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/python/docs-agent/pyproject.toml
+  detection_source: demos/palm/python/docs-agent/pyproject.toml
+  last_updated_by: kyolee415
+  last_updated_on: 2023-10-04 02:52:10.000000000 Z
+- name: ratelimit
+  description: API rate limit decorator
+  package_url: https://pypi.org/project/ratelimit
+  version: 2.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20481/default_53ec395d3cbc3d93c33946e7e0873b0b6aded451.png
+  detection_source_url: https://github.com/Manojkumardheenadhayalan/generative-ai-docs/blob/main/demos/palm/python/docs-agent/poetry.lock
+  detection_source: demos/palm/python/docs-agent/pyproject.toml
+  last_updated_by: kyolee415
+  last_updated_on: 2023-09-18 15:30:22.000000000 Z
